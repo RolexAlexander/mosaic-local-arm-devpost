@@ -1,4 +1,4 @@
-# Mosaic Local
+# <img src="../logo.png" width="64" alt="Mosaic Local Logo" valign="middle"/> Mosaic Local
 
 **A complete, private AI marketing team running on an Arm64 Android phone.**
 
