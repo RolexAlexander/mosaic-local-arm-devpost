@@ -1,0 +1,47 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate.json
+
+# IntelliJ Related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code Related
+.vscode/
+
+# Flutter/Dart Related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+mosaic_local/build/
+mosaic_local/.dart_tool/
+mosaic_local/.flutter-plugins
+mosaic_local/.flutter-plugins-dependencies
+mosaic_local/.packages
+mosaic_local/.pub-cache/
+mosaic_local/.pub/
+
+# Android Related
+**/android/**/GeneratedPluginRegistrant.java
+**/android/local.properties
+**/android/key.properties
+**/android/app/**.keystore
+**/android/app/**.jks
+**/android/app/build/
+**/android/.gradle/
+**/android/app/src/main/res/drawable*/*.png
+**/android/app/src/main/res/mipmap*/*.png
