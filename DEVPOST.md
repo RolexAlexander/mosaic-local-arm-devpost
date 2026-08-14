@@ -1,5 +1,7 @@
 # Devpost submission draft
 
+![Mosaic Local Banner](banner.png)
+
 ## Project name
 
 Mosaic Local

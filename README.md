@@ -1,5 +1,7 @@
 # <img src="logo.png" width="64" alt="Mosaic Local Logo" valign="middle"/> Mosaic Local
 
+![Mosaic Local Banner](banner.png)
+
 **A complete, private AI marketing team running on an Arm64 Android phone.**
 
 Mosaic Local is the on-device rebuild of Mosaic Marketing. It transforms a brand profile into campaign strategy, finished copy, calls to action, hashtags, and Caribbean-aware visual direction without cloud inference, running entirely on the Arm processor in your phone.
